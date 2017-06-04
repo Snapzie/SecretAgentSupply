@@ -9,9 +9,9 @@ html {
 }
 
 .container, .navbar {
-    display: flex;
-    max-width: 960px;
-    margin: 0 auto;
+  display: flex;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 #logo {
@@ -80,7 +80,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-width: 30%;
+  width: 30%;
   padding-top: 2rem;
   border: 4px solid black;
   overflow: hidden;
@@ -106,7 +106,7 @@ nav {
 }
 
 .main-content-div {
-  min-width: 35%;
+  width: 35%;
   margin-top: 3rem;
 }
 
@@ -206,10 +206,10 @@ footer .container {
   }
 
   .hours {
-    background-color: white;
+    background-color: blue;
   }
 
-  #black {
+  .main-content-div .hours p {
     color: black;
   }
 
