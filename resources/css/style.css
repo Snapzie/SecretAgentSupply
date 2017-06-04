@@ -157,7 +157,7 @@ footer .container {
   }
 
   .item {
-    min-width: 47%;
+    width: 47%;
   }
 
   #item3 {
@@ -198,11 +198,11 @@ footer .container {
   }
 
   .item {
-    min-width: 90%;
+    width: 90%;
   }
 
   .main-content-div {
-    min-width: 90%;
+    width: 90%;
   }
 
   footer .container {
