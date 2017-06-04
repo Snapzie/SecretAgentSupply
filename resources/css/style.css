@@ -205,12 +205,12 @@ footer .container {
     width: 90%;
   }
 
-  .hours {
-    background-color: white;
+  .container .main-content-div .hours p {
+    color: black;
   }
 
-  #black {
-    color: black;
+  .hours {
+    background-color: blue;
   }
 
   footer .container {
