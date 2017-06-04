@@ -205,7 +205,11 @@ footer .container {
     width: 90%;
   }
 
-  .hours p {
+  .hours {
+    background-color: black;
+  }
+
+  .main-content-div .text-div .hours p {
     color: black;
   }
 
