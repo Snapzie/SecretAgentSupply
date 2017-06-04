@@ -206,11 +206,11 @@ footer .container {
   }
 
   .hours {
-    background-color: blue;
+    background-color: white;
   }
 
-  .main-content-div .hours p {
-    color: red !important;
+  #black {
+    color: black;
   }
 
   footer .container {
