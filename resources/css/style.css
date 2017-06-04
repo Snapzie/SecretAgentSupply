@@ -210,7 +210,7 @@ footer .container {
   }
 
   .main-content-div .hours p {
-    color: black;
+    color: red !important;
   }
 
   footer .container {
