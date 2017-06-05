@@ -1,6 +1,6 @@
 html {
   font-size: 18px;
-  color: red;
+  color: white;
 }
 
 .header {
@@ -31,7 +31,7 @@ html {
 }
 
 a {
-  color: pink;
+  color: white;
 }
 
 #landing-image {
@@ -51,7 +51,7 @@ a {
 #landing-div h5, h1 {
   font-family: helvetica;
   font-size: 1rem;
-  color: yellow;
+  /*color: white;*/
   font-weight: bold;
 }
 
@@ -120,12 +120,12 @@ nav {
 }
 
 .main-content-div .text-div p {
-  color: blue;
+  /*color: white;*/
   margin: 0;
 }
 
 .main-content-div p {
-  color: green;
+  color: black;
   margin: 0;
 }
 
