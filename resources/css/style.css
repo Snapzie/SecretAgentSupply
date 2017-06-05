@@ -51,7 +51,6 @@ a {
 #landing-div h5, h1 {
   font-family: helvetica;
   font-size: 1rem;
-  /*color: white;*/
   font-weight: bold;
 }
 
@@ -120,7 +119,7 @@ nav {
 }
 
 .main-content-div .text-div p {
-  /*color: white;*/
+  color: white;
   margin: 0;
 }
 
