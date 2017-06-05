@@ -31,7 +31,7 @@ html {
 }
 
 a {
-  color: white;
+  color: pink;
 }
 
 #landing-image {
@@ -51,7 +51,7 @@ a {
 #landing-div h5, h1 {
   font-family: helvetica;
   font-size: 1rem;
-  color: white;
+  color: yellow;
   font-weight: bold;
 }
 
@@ -125,7 +125,7 @@ nav {
 }
 
 .main-content-div p {
-  color: black;
+  color: green;
   margin: 0;
 }
 
