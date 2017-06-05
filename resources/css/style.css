@@ -1,5 +1,6 @@
 html {
   font-size: 18px;
+  color: white;
 }
 
 .header {
@@ -27,7 +28,10 @@ html {
   margin-top: .66rem;
   margin-bottom: .66rem;
   font-family: helvetica;
-  color: blue;
+}
+
+a {
+  color: black;
 }
 
 #landing-image {
@@ -203,14 +207,6 @@ footer .container {
 
   .main-content-div {
     width: 90%;
-  }
-
-  .hours p {
-    color: black;
-  }
-
-  .hours {
-    background-color: red;
   }
 
   footer .container {
