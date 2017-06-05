@@ -31,7 +31,7 @@ html {
 }
 
 a {
-  color: black;
+  color: white;
 }
 
 #landing-image {
@@ -126,6 +126,7 @@ nav {
 
 .main-content-div p {
   color: black;
+  margin: 0;
 }
 
 footer {
