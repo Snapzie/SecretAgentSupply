@@ -120,12 +120,13 @@ nav {
 }
 
 .main-content-div .text-div p {
-  color: white;
+  color: blue;
   margin: 0;
 }
 
 .main-content-div p {
   color: black;
+  margin: 0;
 }
 
 footer {
